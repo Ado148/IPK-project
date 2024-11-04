@@ -234,3 +234,7 @@ setting timeout for recv fcn of a UDP socket - Stack Overflow. Stack Overflow - 
 
 Fakulta informačních technologií VUT v Brně. 3 Programování síťových aplikací
 IPK 2022/2023 L. Počítačové komunikace a sítě (IPK 22/23L) [online]. [cit. 17.03.2023]. Dostupné z: https://www.vut.cz/moodle
+
+
+
+#### SCORE 18/18
